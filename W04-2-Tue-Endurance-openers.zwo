@@ -1,0 +1,14 @@
+<workout_file>
+  <author>Return-to-Peak plan</author>
+  <name>RTP W04 Tue - Endurance + openers</name>
+  <description>Week 4, Tue. Z2 with 3 x 1 min at 105%. 60 min. Power is % of your Zwift FTP — update FTP after each test.</description>
+  <sportType>bike</sportType>
+  <tags><tag name="RTP"/></tags>
+  <workout>
+    <Warmup Duration="600" PowerLow="0.50" PowerHigh="0.66"/>
+    <SteadyState Duration="600" Power="0.66"/>
+    <IntervalsT Repeat="3" OnDuration="60" OffDuration="180" OnPower="1.05" OffPower="0.60"/>
+    <SteadyState Duration="1380" Power="0.66"/>
+    <Cooldown Duration="300" PowerLow="0.60" PowerHigh="0.45"/>
+  </workout>
+</workout_file>

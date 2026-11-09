@@ -1,0 +1,12 @@
+<workout_file>
+  <author>Return-to-Peak plan</author>
+  <name>RTP W08 Fri - Recovery spin</name>
+  <description>Week 8, Fri. Z1, very easy. 45 min. Power is % of your Zwift FTP — update FTP after each test.</description>
+  <sportType>bike</sportType>
+  <tags><tag name="RTP"/></tags>
+  <workout>
+    <Warmup Duration="300" PowerLow="0.50" PowerHigh="0.52"/>
+    <SteadyState Duration="2100" Power="0.52"/>
+    <Cooldown Duration="300" PowerLow="0.60" PowerHigh="0.45"/>
+  </workout>
+</workout_file>

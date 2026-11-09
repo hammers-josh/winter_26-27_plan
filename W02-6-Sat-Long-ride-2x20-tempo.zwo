@@ -1,0 +1,16 @@
+<workout_file>
+  <author>Return-to-Peak plan</author>
+  <name>RTP W02 Sat - Long ride + 2x20 tempo</name>
+  <description>Week 2, Sat. Z2; 2 x 20 min tempo in hours 2-3. 240 min. Power is % of your Zwift FTP — update FTP after each test.</description>
+  <sportType>bike</sportType>
+  <tags><tag name="RTP"/></tags>
+  <workout>
+    <Warmup Duration="600" PowerLow="0.50" PowerHigh="0.68"/>
+    <SteadyState Duration="3900" Power="0.68"/>
+    <SteadyState Duration="1200" Power="0.83"/>
+    <SteadyState Duration="600" Power="0.68"/>
+    <SteadyState Duration="1200" Power="0.83"/>
+    <SteadyState Duration="6300" Power="0.68"/>
+    <Cooldown Duration="600" PowerLow="0.60" PowerHigh="0.45"/>
+  </workout>
+</workout_file>

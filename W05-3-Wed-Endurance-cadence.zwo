@@ -1,0 +1,14 @@
+<workout_file>
+  <author>Return-to-Peak plan</author>
+  <name>RTP W05 Wed - Endurance + cadence</name>
+  <description>Week 5, Wed. Z2 with 6 x 2 min at 100-105 rpm. 90 min. Power is % of your Zwift FTP — update FTP after each test.</description>
+  <sportType>bike</sportType>
+  <tags><tag name="RTP"/></tags>
+  <workout>
+    <Warmup Duration="300" PowerLow="0.50" PowerHigh="0.70"/>
+    <SteadyState Duration="300" Power="0.70"/>
+    <IntervalsT Repeat="6" OnDuration="120" OffDuration="360" OnPower="0.72" OffPower="0.70" Cadence="102"/>
+    <SteadyState Duration="1620" Power="0.70"/>
+    <Cooldown Duration="300" PowerLow="0.60" PowerHigh="0.45"/>
+  </workout>
+</workout_file>

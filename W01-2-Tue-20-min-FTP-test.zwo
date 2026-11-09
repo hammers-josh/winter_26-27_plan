@@ -1,0 +1,16 @@
+<workout_file>
+  <author>Return-to-Peak plan</author>
+  <name>RTP W01 Tue - 20-min FTP test</name>
+  <description>Week 1, Tue. Free-ride 20-min test. Ride the effort with ERG off. 60 min. Power is % of your Zwift FTP — update FTP after each test.</description>
+  <sportType>bike</sportType>
+  <tags><tag name="RTP"/></tags>
+  <workout>
+    <Warmup Duration="300" PowerLow="0.45" PowerHigh="0.55"/>
+    <Warmup Duration="420" PowerLow="0.55" PowerHigh="0.72"/>
+    <SteadyState Duration="180" Power="0.55"/>
+    <SteadyState Duration="300" Power="1.05"/>
+    <SteadyState Duration="300" Power="0.55"/>
+    <FreeRide Duration="1200" FlatRoad="1"><textevent timeoffset="0" message="20-MIN TEST: ERG is off here. Start steady, empty the tank in the last 3 min. FTP = 95% of your 20-min average."/></FreeRide>
+    <Cooldown Duration="900" PowerLow="0.60" PowerHigh="0.45"/>
+  </workout>
+</workout_file>

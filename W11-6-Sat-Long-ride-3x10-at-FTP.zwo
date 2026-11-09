@@ -1,0 +1,18 @@
+<workout_file>
+  <author>Return-to-Peak plan</author>
+  <name>RTP W11 Sat - Long ride + 3x10 at FTP</name>
+  <description>Week 11, Sat. Z2; 3 x 10 min at 100% in hours 2-3. 270 min. Power is % of your Zwift FTP — update FTP after each test.</description>
+  <sportType>bike</sportType>
+  <tags><tag name="RTP"/></tags>
+  <workout>
+    <Warmup Duration="600" PowerLow="0.50" PowerHigh="0.68"/>
+    <SteadyState Duration="3600" Power="0.68"/>
+    <SteadyState Duration="600" Power="1.00"/>
+    <SteadyState Duration="600" Power="0.68"/>
+    <SteadyState Duration="600" Power="1.00"/>
+    <SteadyState Duration="600" Power="0.68"/>
+    <SteadyState Duration="600" Power="1.00"/>
+    <SteadyState Duration="8400" Power="0.68"/>
+    <Cooldown Duration="600" PowerLow="0.60" PowerHigh="0.45"/>
+  </workout>
+</workout_file>

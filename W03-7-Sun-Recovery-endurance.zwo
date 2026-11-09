@@ -1,0 +1,12 @@
+<workout_file>
+  <author>Return-to-Peak plan</author>
+  <name>RTP W03 Sun - Recovery endurance</name>
+  <description>Week 3, Sun. Low Z2. 150 min. Power is % of your Zwift FTP — update FTP after each test.</description>
+  <sportType>bike</sportType>
+  <tags><tag name="RTP"/></tags>
+  <workout>
+    <Warmup Duration="300" PowerLow="0.50" PowerHigh="0.62"/>
+    <SteadyState Duration="8400" Power="0.62"/>
+    <Cooldown Duration="300" PowerLow="0.60" PowerHigh="0.45"/>
+  </workout>
+</workout_file>

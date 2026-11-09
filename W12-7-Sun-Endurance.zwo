@@ -1,0 +1,12 @@
+<workout_file>
+  <author>Return-to-Peak plan</author>
+  <name>RTP W12 Sun - Endurance</name>
+  <description>Week 12, Sun. Easy spin. 60 min. Power is % of your Zwift FTP — update FTP after each test.</description>
+  <sportType>bike</sportType>
+  <tags><tag name="RTP"/></tags>
+  <workout>
+    <Warmup Duration="300" PowerLow="0.50" PowerHigh="0.60"/>
+    <SteadyState Duration="3000" Power="0.60"/>
+    <Cooldown Duration="300" PowerLow="0.60" PowerHigh="0.45"/>
+  </workout>
+</workout_file>

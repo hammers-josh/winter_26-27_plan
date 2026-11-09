@@ -1,0 +1,25 @@
+<workout_file>
+  <author>Return-to-Peak plan</author>
+  <name>RTP W06 Thu - Threshold + kick 4x10</name>
+  <description>Week 6, Thu. 4 x 10 min at 97%, last 30 s at 120%. 90 min. Power is % of your Zwift FTP — update FTP after each test.</description>
+  <sportType>bike</sportType>
+  <tags><tag name="RTP"/></tags>
+  <workout>
+    <Warmup Duration="300" PowerLow="0.45" PowerHigh="0.55"/>
+    <Warmup Duration="420" PowerLow="0.55" PowerHigh="0.72"/>
+    <SteadyState Duration="180" Power="0.55"/>
+    <SteadyState Duration="570" Power="0.97"/>
+    <SteadyState Duration="30" Power="1.20"/>
+    <SteadyState Duration="240" Power="0.55"/>
+    <SteadyState Duration="570" Power="0.97"/>
+    <SteadyState Duration="30" Power="1.20"/>
+    <SteadyState Duration="240" Power="0.55"/>
+    <SteadyState Duration="570" Power="0.97"/>
+    <SteadyState Duration="30" Power="1.20"/>
+    <SteadyState Duration="240" Power="0.55"/>
+    <SteadyState Duration="570" Power="0.97"/>
+    <SteadyState Duration="30" Power="1.20"/>
+    <SteadyState Duration="780" Power="0.66"/>
+    <Cooldown Duration="600" PowerLow="0.60" PowerHigh="0.45"/>
+  </workout>
+</workout_file>

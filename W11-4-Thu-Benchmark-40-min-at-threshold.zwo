@@ -1,0 +1,17 @@
+<workout_file>
+  <author>Return-to-Peak plan</author>
+  <name>RTP W11 Thu - Benchmark 40 min at threshold</name>
+  <description>Week 11, Thu. 40 min continuous at 96%. 90 min. Power is % of your Zwift FTP — update FTP after each test.</description>
+  <sportType>bike</sportType>
+  <tags><tag name="RTP"/></tags>
+  <workout>
+    <Warmup Duration="300" PowerLow="0.45" PowerHigh="0.55"/>
+    <Warmup Duration="420" PowerLow="0.55" PowerHigh="0.72"/>
+    <SteadyState Duration="180" Power="0.55"/>
+    <SteadyState Duration="180" Power="1.05"/>
+    <SteadyState Duration="300" Power="0.55"/>
+    <SteadyState Duration="2400" Power="0.96"/>
+    <SteadyState Duration="1020" Power="0.66"/>
+    <Cooldown Duration="600" PowerLow="0.60" PowerHigh="0.45"/>
+  </workout>
+</workout_file>

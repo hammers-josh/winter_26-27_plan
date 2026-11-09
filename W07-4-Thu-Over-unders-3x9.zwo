@@ -1,0 +1,19 @@
+<workout_file>
+  <author>Return-to-Peak plan</author>
+  <name>RTP W07 Thu - Over-unders 3x9</name>
+  <description>Week 7, Thu. 3 x 9 min of (2 min 95% / 1 min 108%). 75 min. Power is % of your Zwift FTP — update FTP after each test.</description>
+  <sportType>bike</sportType>
+  <tags><tag name="RTP"/></tags>
+  <workout>
+    <Warmup Duration="300" PowerLow="0.45" PowerHigh="0.55"/>
+    <Warmup Duration="420" PowerLow="0.55" PowerHigh="0.72"/>
+    <SteadyState Duration="180" Power="0.55"/>
+    <IntervalsT Repeat="3" OnDuration="120" OffDuration="60" OnPower="0.95" OffPower="1.08"/>
+    <SteadyState Duration="300" Power="0.55"/>
+    <IntervalsT Repeat="3" OnDuration="120" OffDuration="60" OnPower="0.95" OffPower="1.08"/>
+    <SteadyState Duration="300" Power="0.55"/>
+    <IntervalsT Repeat="3" OnDuration="120" OffDuration="60" OnPower="0.95" OffPower="1.08"/>
+    <SteadyState Duration="780" Power="0.66"/>
+    <Cooldown Duration="600" PowerLow="0.60" PowerHigh="0.45"/>
+  </workout>
+</workout_file>
